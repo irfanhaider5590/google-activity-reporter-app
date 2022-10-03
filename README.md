@@ -5,3 +5,5 @@ that project to work and you want to monitor all users activities that what they
 groups you have added him etc.
 
 You can simply run this app via following document with name "Integration of Google Workspace Admin Report in Java Spring Boot Project".
+
+There is another document attached in which i explain how to add and grant rights to a new user into a project.
