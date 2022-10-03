@@ -1,0 +1,11 @@
+
+// Gradle plugin repositories
+pluginManagement {
+    repositories {
+        maven { url 'https://repo.spring.io/release' }
+        gradlePluginPortal()
+        mavenCentral()
+    }
+}
+
+rootProject.name = 'GoogleActivityReport'
